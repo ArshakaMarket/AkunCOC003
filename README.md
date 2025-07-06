@@ -1,7 +1,5 @@
 # AkunCOC003
 
-# AkunCOC001
-
 Desa Asal<br>
 Login : Supercell (Bisa CE email) <br>
 LV : 90 <br>
